@@ -31,8 +31,13 @@ public class Details {
 		String st="greens@123";
 		System.out.println(st);
 		
+
+		System.out.println("conflicts");
+		System.out.println("git hub");
+
 		System.out.println("selenium java");
 		System.out.println("course added");
+
 
 	}
 	
