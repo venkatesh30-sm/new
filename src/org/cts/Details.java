@@ -30,6 +30,9 @@ public class Details {
 		
 		String st="greens@123";
 		System.out.println(st);
+		
+		System.out.println("selenium java");
+		System.out.println("course added");
 
 	}
 	
